@@ -1,0 +1,6 @@
+{
+    "plugintypes": {
+        "uraitsource": "mod\/urait\/source",
+        "uraitservice": "mod\/urait\/service"
+    }
+}
