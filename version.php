@@ -24,9 +24,9 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'mod_urait'; // Full name of the plugin (used for diagnostics).
-$plugin->version   = 2024072200;      // The current module version (Date: YYYYMMDDXX).
+$plugin->version   = 2024081200;      // The current module version (Date: YYYYMMDDXX).
 $plugin->requires  = 2022041900;      // Requires Moodle 4.0.
-$plugin->release = 1.0;
+$plugin->release = 1.1;
 $plugin->dependencies = [
     'mod_lti' => 2022041900,
 ];
